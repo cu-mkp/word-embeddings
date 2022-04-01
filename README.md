@@ -7,18 +7,19 @@ Using BERT-trained contextual word embeddings, measure the similarity between ce
 Considering the level of effort that was put into the translation process and specifically the effort that was taken to maintain the translator’s voice, this project will provide a potential metric for semantic faithfulness. The intratext vocabulary comparisons will provide an additional level of insight into the author-practitioner’s lexicon for different contexts. \
 
 ## Next Steps 
-Preliminary background research: \
-Review outstanding literature on BERT and translation loss \
-Review the manuscript and its translations/editions \
-Technological workflow \
-Google Collab with HuggingFace transformer library for BERT \
-Manuscript object: what type of preprocessing needs to be done with the text \
-Narrow down examples to work with from within the manuscript \
-Some textual analysis \
-Develop more formal hypotheses about translation loss 
+### Preliminary background research: \
+* Review outstanding literature on BERT and translation loss \
+* Review the manuscript and its translations/editions \
+### Technological workflow \
+* Google Collab with HuggingFace transformer library for BERT \
+### Manuscript object: 
+* What type of preprocessing needs to be done with the text \
+* Narrow down examples to work with from within the manuscript \
+* Some textual analysis \
+* Develop more formal hypotheses about translation loss 
 
 ## References 
-“Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_335_ie_19 \
-“Turning Turtle: The Process of Translating BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_318_ie_19 \
-“Principles of Encoding” https://edition640.makingandknowing.org/#/content/resources/principles \
-“Dcitionaries” https://edition640.makingandknowing.org/#/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias 
+* “Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_335_ie_19 \
+* “Turning Turtle: The Process of Translating BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_318_ie_19 \
+* “Principles of Encoding” https://edition640.makingandknowing.org/#/content/resources/principles \
+* “Dicitionaries” https://edition640.makingandknowing.org/#/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias 
