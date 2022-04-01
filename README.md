@@ -23,3 +23,4 @@ Considering the level of effort that was put into the translation process and sp
 * “Turning Turtle: The Process of Translating BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_318_ie_19 
 * “Principles of Encoding” https://edition640.makingandknowing.org/#/content/resources/principles 
 * “Dicitionaries” https://edition640.makingandknowing.org/#/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias 
+* "Training Neural Machine Translation using Word Embedding-based Loss" https://arxiv.org/abs/1807.11219
