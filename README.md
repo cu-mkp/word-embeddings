@@ -15,7 +15,7 @@ Google Collab with HuggingFace transformer library for BERT \
 Manuscript object: what type of preprocessing needs to be done with the text \
 Narrow down examples to work with from within the manuscript \
 Some textual analysis \
-Develop more formal hypotheses about translation loss \
+Develop more formal hypotheses about translation loss 
 
 ## References 
 “Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640” https://edition640.makingandknowing.org/#/essays/ann_335_ie_19 \
