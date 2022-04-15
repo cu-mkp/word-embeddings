@@ -24,3 +24,5 @@ Considering the level of effort that was put into the translation process and sp
 * “Principles of Encoding” https://edition640.makingandknowing.org/#/content/resources/principles 
 * “Dicitionaries” https://edition640.makingandknowing.org/#/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias 
 * "Training Neural Machine Translation using Word Embedding-based Loss" https://arxiv.org/abs/1807.11219
+* "Understanding BERT" https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model#:~:text=BERT%20is%20an%20open%20source,surrounding%20text%20to%20establish%20context.
+* "BERT Word Embeddings Tutorial" https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
