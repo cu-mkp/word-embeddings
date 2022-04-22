@@ -26,3 +26,4 @@ Considering the level of effort that was put into the translation process and sp
 * "Training Neural Machine Translation using Word Embedding-based Loss" https://arxiv.org/abs/1807.11219
 * "Understanding BERT" https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model#:~:text=BERT%20is%20an%20open%20source,surrounding%20text%20to%20establish%20context.
 * "BERT Word Embeddings Tutorial" https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+* https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
