@@ -27,3 +27,4 @@ Considering the level of effort that was put into the translation process and sp
 * "Understanding BERT" https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model#:~:text=BERT%20is%20an%20open%20source,surrounding%20text%20to%20establish%20context.
 * "BERT Word Embeddings Tutorial" https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
 * https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
+* https://huggingface.co/flaubert/flaubert_base_uncased
